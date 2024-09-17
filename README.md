@@ -1,7 +1,7 @@
 # Emotional Support Conversation with fine-grained emotion and emotional dynamics
 
 ## Problem Statement:
-To improve the quality of responses generated in dialogue systems tailored for emotional support a machine learning model known as CauESC model needs to be developed, which enhances conversations in emotional support contexts by recognizing emotional causes and effects. The model focuses on identifying emotional causes and effects to improve the responses in dialogue systems designed for emotional support. By capturing the emotional dynamics between the seeker and support provider, CauESC offers a comprehensive solution for understanding and addressing emotional distress.
+To improve the quality of responses generated in dialogue systems tailored for emotional support a machine learning model known as CauESC model needs to be developed, which enhances conversations in emotional support contexts by recognizing emotional causes and effects. By capturing the emotional dynamics between the seeker and support provider, CauESC offers a comprehensive solution for understanding and addressing emotional distress.
 
 ## Motivation/Faults in the previous similar models
 Existing models for emotional support conversations face 2 major challenges:
